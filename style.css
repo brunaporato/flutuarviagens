@@ -48,11 +48,15 @@ p {
   margin: 0 auto 16px;
 }
 
-#footer a+a {
+footer a{
+  text-decoration: none;
+}
+
+footer a+a {
   margin-left: 42px;
 }
 
-#footer img {
+footer img {
 position:absolute;
 width: 100%;
 right: 0;
